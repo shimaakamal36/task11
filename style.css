@@ -1,0 +1,15 @@
+*{ 
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ddd;
+}
+button{
+    text-transform: capitalize;
+    background-color: aqua;
+    color:#aaa;
+    padding:20px;
+    border:1px solid transparent;
+    border-radius: 5px;
+}
